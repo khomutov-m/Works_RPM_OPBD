@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\ispp21\\LabWork17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF61156C-6993-43D4-A48E-0C942CC8B887}|Task1.1\\Task1.1.csproj|V:\\ispp21\\LabWork17\\task1.1\\filesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF61156C-6993-43D4-A48E-0C942CC8B887}|Task1.1\\Task1.1.csproj|solutionrelative:task1.1\\filesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF61156C-6993-43D4-A48E-0C942CC8B887}|Task1.1\\Task1.1.csproj|v:\\ispp21\\labwork17\\task1.1\\filesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF61156C-6993-43D4-A48E-0C942CC8B887}|Task1.1\\Task1.1.csproj|solutionrelative:task1.1\\filesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF61156C-6993-43D4-A48E-0C942CC8B887}|Task1.1\\Task1.1.csproj|V:\\ispp21\\LabWork17\\task1.1\\filesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF61156C-6993-43D4-A48E-0C942CC8B887}|Task1.1\\Task1.1.csproj|solutionrelative:task1.1\\filesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilesForm.Designer.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork17\\Task1.1\\FilesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task1.1\\FilesForm.Designer.cs",
+              "ToolTip": "V:\\ispp21\\LabWork17\\Task1.1\\FilesForm.Designer.cs",
+              "RelativeToolTip": "Task1.1\\FilesForm.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowCsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T08:26:21.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilesForm.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWork17\\Task1.1\\FilesForm.cs",
+              "RelativeDocumentMoniker": "Task1.1\\FilesForm.cs",
+              "ToolTip": "V:\\ispp21\\LabWork17\\Task1.1\\FilesForm.cs",
+              "RelativeToolTip": "Task1.1\\FilesForm.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T08:24:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "V:\\ispp21\\LabWork17\\Task1.1\\FilesForm.cs",
+              "RelativeDocumentMoniker": "Task1.1\\FilesForm.cs",
+              "ToolTip": "V:\\ispp21\\LabWork17\\Task1.1\\FilesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Task1.1\\FilesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T08:24:18.176Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

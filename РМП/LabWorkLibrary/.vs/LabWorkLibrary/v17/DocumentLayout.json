@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\ispp21\\LabWorkLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F223ABBB-8AC9-4E40-A864-DC6BAAC870A4}|LabWorkLibrary\\LabWorkLibrary.csproj|V:\\ispp21\\LabWorkLibrary\\labworklibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F223ABBB-8AC9-4E40-A864-DC6BAAC870A4}|LabWorkLibrary\\LabWorkLibrary.csproj|solutionrelative:labworklibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F223ABBB-8AC9-4E40-A864-DC6BAAC870A4}|LabWorkLibrary\\LabWorkLibrary.csproj|v:\\ispp21\\labworklibrary\\labworklibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F223ABBB-8AC9-4E40-A864-DC6BAAC870A4}|LabWorkLibrary\\LabWorkLibrary.csproj|solutionrelative:labworklibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F223ABBB-8AC9-4E40-A864-DC6BAAC870A4}|LabWorkLibrary\\LabWorkLibrary.csproj|V:\\ispp21\\LabWorkLibrary\\labworklibrary\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F223ABBB-8AC9-4E40-A864-DC6BAAC870A4}|LabWorkLibrary\\LabWorkLibrary.csproj|solutionrelative:labworklibrary\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LabWorkLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\Role.cs",
+              "RelativeDocumentMoniker": "LabWorkLibrary\\Role.cs",
+              "ToolTip": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\Role.cs",
+              "RelativeToolTip": "LabWorkLibrary\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:04:03.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\User.cs",
+              "RelativeDocumentMoniker": "LabWorkLibrary\\User.cs",
+              "ToolTip": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\User.cs",
+              "RelativeToolTip": "LabWorkLibrary\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:02:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabWorkLibrary",
+              "DocumentMoniker": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\LabWorkLibrary.csproj",
+              "RelativeDocumentMoniker": "LabWorkLibrary\\LabWorkLibrary.csproj",
+              "ToolTip": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\LabWorkLibrary.csproj",
+              "RelativeToolTip": "LabWorkLibrary\\LabWorkLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-22T06:22:54.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\Maths.cs",
+              "RelativeDocumentMoniker": "LabWorkLibrary\\Maths.cs",
+              "ToolTip": "V:\\ispp21\\LabWorkLibrary\\LabWorkLibrary\\Maths.cs",
+              "RelativeToolTip": "LabWorkLibrary\\Maths.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:36:59.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

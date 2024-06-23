@@ -1,0 +1,28 @@
+﻿<Window x:Class="Task5.ColorDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task5"
+        mc:Ignorable="d"
+        Title="ColorDialog" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <StackPanel Slider.ValueChanged="StackPanel_ValueChanged">
+        <DockPanel>
+            <Label Content="Red" Width="45"/>
+            <Slider x:Name="RedSlider" Minimum="0" Maximum="255" />
+        </DockPanel>
+        <DockPanel>
+            <Label Content="Green" Width="45"/>
+            <Slider x:Name="GreenSlider" Minimum="0" Maximum="255"/>
+        </DockPanel>
+        <DockPanel>
+            <Label Content="Blue" Width="45"/>
+            <Slider x:Name="BlueSlider" Minimum="0" Maximum="255"/>
+        </DockPanel>
+        <WrapPanel>
+            <Button x:Name="OKButton" Content="OK" Width="50" IsDefault="True" Click="OKButton_Click"/>
+            <Button x:Name="CancelButton" Content="Отмена" Width="50" IsCancel="True"/>
+        </WrapPanel>
+        <Rectangle x:Name="Rectangle" Width="70" Height="50" StrokeThickness="1" Stroke="Black"/>
+    </StackPanel>
+</Window>

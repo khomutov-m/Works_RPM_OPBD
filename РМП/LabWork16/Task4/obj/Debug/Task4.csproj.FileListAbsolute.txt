@@ -1,0 +1,10 @@
+V:\ispp21\LabWork16\Task4\bin\Debug\Task4.exe.config
+V:\ispp21\LabWork16\Task4\bin\Debug\Task4.exe
+V:\ispp21\LabWork16\Task4\bin\Debug\Task4.pdb
+V:\ispp21\LabWork16\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+V:\ispp21\LabWork16\Task4\obj\Debug\Task4.Form1.resources
+V:\ispp21\LabWork16\Task4\obj\Debug\Task4.Properties.Resources.resources
+V:\ispp21\LabWork16\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+V:\ispp21\LabWork16\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+V:\ispp21\LabWork16\Task4\obj\Debug\Task4.exe
+V:\ispp21\LabWork16\Task4\obj\Debug\Task4.pdb

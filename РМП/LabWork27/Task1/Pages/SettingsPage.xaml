@@ -1,0 +1,61 @@
+﻿<Page x:Class="Task1.Pages.SettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Task1.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SettingsPage">
+    
+        <TabControl>
+        <TabItem Header="Категории">
+                <StackPanel>
+                    <GroupBox>
+                        <Label Content="О программе"/>
+                    </GroupBox>
+                    <GroupBox>
+                        <StackPanel>
+                            <Label Content="Цветовая тема"/>
+                            <RadioButton Content="Тёмная"/>
+                            <RadioButton Content="Светлая"/>
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox>
+                        <StackPanel>
+                            <Label Content="Размер текста"/>
+                            <RadioButton Content="Большой"/>
+                            <RadioButton Content="Средний"/>
+                            <RadioButton Content="Мелкий"/>
+                        </StackPanel>
+                    </GroupBox>
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header="Категории">
+                <StackPanel>
+                    <Expander Header="О программе">
+                    </Expander>
+                    <Expander Header="Цветовая Тема">
+                        <StackPanel>
+                            <RadioButton Content="Тёмная"/>
+                            <RadioButton Content="Светлая"/>
+                        </StackPanel>
+                    </Expander>
+                    <Expander Header="Размер текста">
+                        <StackPanel>
+                            <RadioButton Content="Большой"/>
+                            <RadioButton Content="Средний"/>
+                            <RadioButton Content="Мелкий"/>
+                        </StackPanel>
+                    </Expander>
+                </StackPanel>
+            </TabItem>
+
+        <TabItem Header="Категории">
+            <StackPanel x:Name="CategoryNameStackPanel">
+                
+            </StackPanel>
+        </TabItem>
+        </TabControl>
+</Page>

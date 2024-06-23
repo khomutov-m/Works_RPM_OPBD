@@ -1,0 +1,36 @@
+﻿<MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="IsMouseOver" Value="True"/>
+                                    <Condition Property="ButtonBase.IsPressed" Value="True"/>
+                                </MultiTrigger.Conditions>
+                                <MultiTrigger.Setters>
+                                    <Setter Property="Foreground" Value="Red" />
+                                </MultiTrigger.Setters>
+                            </MultiTrigger>
+
+
+
+
+
+
+
+                            <Style TargetType="Label">
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseLeftButtonDown">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation To="SaddleBrown" Duration="0" Storyboard.TargetProperty="Background.Color"/>
+                                        <ColorAnimation To="Aqua" Duration="0" Storyboard.TargetProperty="Foreground.Color"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeftButtonUp">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation To="Transparent" Duration="0" Storyboard.TargetProperty="Background.Color"/>
+                                        <ColorAnimation To="Black" Duration="0" Storyboard.TargetProperty="Foreground.Color"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>

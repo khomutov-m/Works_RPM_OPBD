@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabWorkLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:LabWorkLibrary.Maths">
+            <summary>
+            Представляет статические методы для математических вычислений
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.Maths.BINARY_FACTOR">
+            <summary>
+            2 в 10 степени
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Sum(System.Double,System.Double)">
+            <summary>
+            Возвращает сумму двух чисел
+            </summary>
+            <param name="x">Первое слагаемое</param>
+            <param name="y">Второе слагаемое</param>
+            <returns>Сумма</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Difference(System.Double,System.Double)">
+            <summary>
+            Возвращает разность двух чисел
+            </summary>
+            <param name="x">Уменьшаемое</param>
+            <param name="y">Вычитаемое</param>
+            <returns>Разность</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Multiplication(System.Double,System.Double)">
+            <summary>
+            Возвращает произведение двух чисел
+            </summary>
+            <param name="x">Первый множитель</param>
+            <param name="y">Второй множитель</param>
+            <returns>Произведение</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Quotient(System.Double,System.Double)">
+            <summary>
+            Возвращает частное двух чисел
+            </summary>
+            <param name="x">Делимое</param>
+            <param name="y">Делитель</param>
+            <returns>Частное</returns>
+            <exception cref="T:System.DivideByZeroException">Делитель равен 0</exception>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.RectangleArea(System.Double,System.Double)">
+            <summary>
+            Возвращает площадь прямоугольника
+            </summary>
+            <param name="width">Ширина прямоугольника</param>
+            <param name="height">Высота прямоугольника</param>
+            <returns>Площадь прямоугольника</returns>
+            <exception cref="T:System.ArgumentException">Высота/ширина меньше или равна 0</exception>
+        </member>
+        <member name="T:LabWorkLibrary.Role">
+            <summary>
+            Представляет перечисление ролей
+            </summary>
+        </member>
+        <member name="T:LabWorkLibrary.User">
+            <summary>
+            Представляет пользовательские данные: логин, пароль, роль
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem Name="CountChangedRows" Content="Число измененный строк:"/>
+        </StatusBar>
+    <StackPanel>
+        <Grid>
+            <TextBlock Name="TextBlock"  Text="Введите sql-запрос"/>
+            <TextBox Name="QueryTextBox" Width="Auto" TextChanged="QueryTextBox_TextChanged" Background="Transparent"/>
+        </Grid>
+        <WrapPanel>
+            <RadioButton Name="Task1RadioButton" Content="Task1" GroupName="Tasks"/>
+            <RadioButton Name="Task2RadioButton" Content="Task2" GroupName="Tasks"/>
+            <RadioButton Name="Task3RadioButton" Content="Task3" GroupName="Tasks"/>
+            <RadioButton Name="Task4RadioButton" Content="Task4" GroupName="Tasks"/>
+            <RadioButton Name="Task5RadioButton" Content="Task5" GroupName="Tasks"/>
+            <Label Content="ID:"/>
+            <TextBox Name="IdTextBox" Width="30"/>
+            <Label Content="Новая цена:"/>
+            <TextBox Name="NewPriceTextBox" Width="40"/>
+            <Button Name="SaveButton" Content="Сохранить" Click="SaveButton_Click"/>
+            <Label Content="Имя таблицы:"/>
+            <TextBox Name="NameTableTextBox" Width="50"/>
+            </WrapPanel>
+        <Button Name="ExecuteButton" Content="Выполнить" Click="ExecuteButton_Click"/>
+        <TextBlock Name="ResultTextBlock"/>
+        <ScrollViewer CanContentScroll="True" VerticalScrollBarVisibility="Auto">
+            <DataGrid Name="ResultDataGrid"/>
+        </ScrollViewer>
+    </StackPanel>
+    </DockPanel>
+</Window>

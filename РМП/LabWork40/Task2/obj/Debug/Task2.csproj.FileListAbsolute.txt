@@ -1,0 +1,15 @@
+C:\Учёба\РПМ\LabWork40\Task2\bin\Debug\Task2.exe.config
+C:\Учёба\РПМ\LabWork40\Task2\bin\Debug\Task2.exe
+C:\Учёба\РПМ\LabWork40\Task2\bin\Debug\Task2.pdb
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\MainWindow.g.cs
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\App.g.cs
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\MainWindow.baml
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2.g.resources
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2.exe
+C:\Учёба\РПМ\LabWork40\Task2\obj\Debug\Task2.pdb

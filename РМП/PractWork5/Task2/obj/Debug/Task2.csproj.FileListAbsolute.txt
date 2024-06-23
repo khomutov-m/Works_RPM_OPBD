@@ -1,0 +1,40 @@
+C:\Учёба\РПМ\PractWork5\Task2\bin\Debug\Task2.exe.config
+C:\Учёба\РПМ\PractWork5\Task2\bin\Debug\Task2.exe
+C:\Учёба\РПМ\PractWork5\Task2\bin\Debug\Task2.pdb
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\MainWindow.g.cs
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\User Controls\CurrentTimeUserControl.g.cs
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\App.g.cs
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\MainWindow.baml
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\User Controls\CurrentTimeUserControl.baml
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2.g.resources
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2.exe
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\Task2.pdb
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\User Controls\CountUserControl.g.cs
+C:\Учёба\РПМ\PractWork5\Task2\obj\Debug\User Controls\CountUserControl.baml
+C:\Temp\ispp21\PractWork5\Task2\bin\Debug\Task2.exe.config
+C:\Temp\ispp21\PractWork5\Task2\bin\Debug\Task2.exe
+C:\Temp\ispp21\PractWork5\Task2\bin\Debug\Task2.pdb
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\MainWindow.g.cs
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\User Controls\CountUserControl.g.cs
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\User Controls\CurrentTimeUserControl.g.cs
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\App.g.cs
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\MainWindow.baml
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\User Controls\CountUserControl.baml
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\User Controls\CurrentTimeUserControl.baml
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2.g.resources
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2.exe
+C:\Temp\ispp21\PractWork5\Task2\obj\Debug\Task2.pdb

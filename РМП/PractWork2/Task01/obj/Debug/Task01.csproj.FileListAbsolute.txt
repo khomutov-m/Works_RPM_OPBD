@@ -1,0 +1,10 @@
+C:\Temp\ispp21\PractWork2\Task01\bin\Debug\Task01.exe.config
+C:\Temp\ispp21\PractWork2\Task01\bin\Debug\Task01.exe
+C:\Temp\ispp21\PractWork2\Task01\bin\Debug\Task01.pdb
+C:\Temp\ispp21\PractWork2\Task01\obj\Debug\Task01.csproj.AssemblyReference.cache
+C:\Temp\ispp21\PractWork2\Task01\obj\Debug\Task01.RegistrationForm.resources
+C:\Temp\ispp21\PractWork2\Task01\obj\Debug\Task01.Properties.Resources.resources
+C:\Temp\ispp21\PractWork2\Task01\obj\Debug\Task01.csproj.GenerateResource.cache
+C:\Temp\ispp21\PractWork2\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\PractWork2\Task01\obj\Debug\Task01.exe
+C:\Temp\ispp21\PractWork2\Task01\obj\Debug\Task01.pdb

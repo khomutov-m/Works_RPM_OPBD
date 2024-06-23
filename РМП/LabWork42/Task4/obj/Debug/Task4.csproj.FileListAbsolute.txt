@@ -1,0 +1,15 @@
+C:\Учёба\РПМ\LabWork42\Task4\bin\Debug\Task4.exe.config
+C:\Учёба\РПМ\LabWork42\Task4\bin\Debug\Task4.exe
+C:\Учёба\РПМ\LabWork42\Task4\bin\Debug\Task4.pdb
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\MainWindow.g.cs
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\App.g.cs
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4_MarkupCompile.cache
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4_MarkupCompile.lref
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\MainWindow.baml
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4.g.resources
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4.exe
+C:\Учёба\РПМ\LabWork42\Task4\obj\Debug\Task4.pdb

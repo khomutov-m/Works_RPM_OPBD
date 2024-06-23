@@ -1,0 +1,15 @@
+C:\Учёба\РПМ\LabWork40\LabWork40\bin\Debug\LabWork40.exe.config
+C:\Учёба\РПМ\LabWork40\LabWork40\bin\Debug\LabWork40.exe
+C:\Учёба\РПМ\LabWork40\LabWork40\bin\Debug\LabWork40.pdb
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40.csproj.AssemblyReference.cache
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\MainWindow.g.cs
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\App.g.cs
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40_MarkupCompile.cache
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40_MarkupCompile.lref
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\MainWindow.baml
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40.g.resources
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40.Properties.Resources.resources
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40.csproj.GenerateResource.cache
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40.csproj.CoreCompileInputs.cache
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40.exe
+C:\Учёба\РПМ\LabWork40\LabWork40\obj\Debug\LabWork40.pdb

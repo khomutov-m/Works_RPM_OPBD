@@ -1,0 +1,11 @@
+V:\ispp21\LabWork16\Task5\bin\Debug\Task5.exe.config
+V:\ispp21\LabWork16\Task5\bin\Debug\Task5.exe
+V:\ispp21\LabWork16\Task5\bin\Debug\Task5.pdb
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.Properties.Resources.resources
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.exe
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.pdb
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.ChangeTextForm.resources
+V:\ispp21\LabWork16\Task5\obj\Debug\Task5.ChangeForm.resources

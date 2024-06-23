@@ -1,0 +1,16 @@
+C:\Учёба\РПМ\PractWork5\Task1\bin\Debug\Task1.exe.config
+C:\Учёба\РПМ\PractWork5\Task1\bin\Debug\Task1.exe
+C:\Учёба\РПМ\PractWork5\Task1\bin\Debug\Task1.pdb
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\MainWindow.g.cs
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\App.g.cs
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1_MarkupCompile.cache
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1_MarkupCompile.lref
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\App.baml
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\MainWindow.baml
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1.g.resources
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1.exe
+C:\Учёба\РПМ\PractWork5\Task1\obj\Debug\Task1.pdb

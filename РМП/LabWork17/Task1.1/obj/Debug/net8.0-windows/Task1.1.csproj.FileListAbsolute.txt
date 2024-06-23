@@ -1,0 +1,16 @@
+V:\ispp21\LabWork17\Task1.1\bin\Debug\net8.0-windows\Task1.1.exe
+V:\ispp21\LabWork17\Task1.1\bin\Debug\net8.0-windows\Task1.1.deps.json
+V:\ispp21\LabWork17\Task1.1\bin\Debug\net8.0-windows\Task1.1.runtimeconfig.json
+V:\ispp21\LabWork17\Task1.1\bin\Debug\net8.0-windows\Task1.1.dll
+V:\ispp21\LabWork17\Task1.1\bin\Debug\net8.0-windows\Task1.1.pdb
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.csproj.GenerateResource.cache
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.AssemblyInfoInputs.cache
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.AssemblyInfo.cs
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.csproj.CoreCompileInputs.cache
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.dll
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\refint\Task1.1.dll
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.pdb
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1.1.genruntimeconfig.cache
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\ref\Task1.1.dll
+V:\ispp21\LabWork17\Task1.1\obj\Debug\net8.0-windows\Task1._1.FilesForm.resources

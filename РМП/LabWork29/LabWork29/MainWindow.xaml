@@ -1,0 +1,121 @@
+﻿<Window x:Class="LabWork29.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork29"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+       
+        <StackPanel>
+            <Label Content="Задание 1">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="Chocolate"/>
+                                <Setter Property="FontSize" Value="20"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Label.Style>
+            </Label>
+        </StackPanel>
+        <StackPanel  Grid.Column="1">
+            <Label Content="Задание 2"/>
+            <Button Content="TestButton1"/>
+            <Button Content="TestButton2"/>
+            <Button Content="TestButton3"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Label Content="Задание 3"/>
+            <TextBox x:Name="LoginTextBox" Text=""/>
+            <Label x:Name="CheckLabel" Visibility="Hidden">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=LoginTextBox, Path=Text}" Value="">
+                                <Setter Property="Content" Value="*Поле ввода обязательно для заполнения"/>
+                                <Setter Property="Foreground" Value="Red"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Label.Style>
+            </Label>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <Label Content="Задание 5"/>
+            <Button x:Name="RegistrationButton" Content="Зарегистрироваться" Click="RegistrationButton_Click">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="IsEnabled" Value="False"/>
+                        <Style.Triggers>
+                            <MultiDataTrigger>
+                                <MultiDataTrigger.Conditions>
+                                    <Condition Binding="{Binding ElementName=AgreementCheckBox, Path=IsChecked}" Value="True"/>
+                                    <Condition Binding="{Binding ElementName=ReadedCheckBox, Path=IsChecked}" Value="True"/>
+                                </MultiDataTrigger.Conditions>
+                                <MultiDataTrigger.Setters>
+                                    <Setter Property="IsEnabled" Value="True"/>
+                                </MultiDataTrigger.Setters>
+                            </MultiDataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <CheckBox x:Name="AgreementCheckBox" Content="Согласен с условиями пользования"/>
+            <CheckBox x:Name="ReadedCheckBox" Content="Прочел соглашение"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Label Content="Задание 4"/>
+            <Button x:Name="SignUpButton" Content="Зарегистрироваться" Click="RegistrationButton_Click">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=AgreeCheckBox, Path=IsChecked}" Value="False">
+                            <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <CheckBox x:Name="AgreeCheckBox" Content="Согласен с условиями пользования"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="2">
+            <Label x:Name="TaskLabel" Content="Задание 6">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseLeftButtonDown">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation To="SaddleBrown" Duration="0" Storyboard.TargetProperty="Background.Color"/>
+                                        <ColorAnimation To="Aqua" Duration="0" Storyboard.TargetProperty="Foreground.Color"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeftButtonUp">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation To="Transparent" Duration="0" Storyboard.TargetProperty="Background.Color"/>
+                                        <ColorAnimation To="Black" Duration="0" Storyboard.TargetProperty="Foreground.Color"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Label.Style>
+            </Label>
+        </StackPanel>
+    </Grid>
+</Window>

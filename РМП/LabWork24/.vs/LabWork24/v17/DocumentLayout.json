@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp21\\LabWork24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|c:\\temp\\ispp21\\labwork24\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|C:\\Temp\\ispp21\\LabWork24\\task5\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|solutionrelative:task5\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|C:\\Temp\\ispp21\\LabWork24\\task5\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|solutionrelative:task5\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|C:\\Temp\\ispp21\\LabWork24\\task5\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|solutionrelative:task5\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|C:\\Temp\\ispp21\\LabWork24\\task5\\ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727FA168-E62E-493C-A8BD-ECBF047CD555}|Task5\\Task5.csproj|solutionrelative:task5\\ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ring.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Ring.cs",
+              "RelativeDocumentMoniker": "Task5\\Ring.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Ring.cs",
+              "RelativeToolTip": "Task5\\Ring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:27:39.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task5\\Rectangle.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Rectangle.cs",
+              "RelativeToolTip": "Task5\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:24:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Circle.cs",
+              "RelativeDocumentMoniker": "Task5\\Circle.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Circle.cs",
+              "RelativeToolTip": "Task5\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:13:15.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Figure.cs",
+              "RelativeDocumentMoniker": "Task5\\Figure.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Figure.cs",
+              "RelativeToolTip": "Task5\\Figure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:10:52.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork24\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:09:59.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

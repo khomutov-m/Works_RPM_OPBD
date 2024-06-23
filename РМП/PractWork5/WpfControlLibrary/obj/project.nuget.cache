@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8uLr0P5sSglXRLGIEykbi5vHRnLb2IT+xEnRhpg5MhQxdK14eCjf0WIZYqs2IRAb1PE59zGDMus6FYBxZEDEg==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\WpfControlLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Вы выполняете операцию ''restore'' с источником ''HTTP'', ''http://nuget.iis.softsol.local/nuget''. Доступ без HTTPS будет удален в будущей версии. Рассмотрите возможность перехода на источник ''HTTPS''."
+    }
+  ]
+}

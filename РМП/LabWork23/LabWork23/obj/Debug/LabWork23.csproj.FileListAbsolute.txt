@@ -1,0 +1,11 @@
+V:\ispp21\LabWork23\LabWork23\bin\Debug\LabWork23.exe.config
+V:\ispp21\LabWork23\LabWork23\bin\Debug\LabWork23.exe
+V:\ispp21\LabWork23\LabWork23\bin\Debug\LabWork23.pdb
+V:\ispp21\LabWork23\LabWork23\bin\Debug\LabWorkLibrary.dll
+V:\ispp21\LabWork23\LabWork23\bin\Debug\LabWorkLibrary.pdb
+V:\ispp21\LabWork23\LabWork23\obj\Debug\LabWork23.csproj.AssemblyReference.cache
+V:\ispp21\LabWork23\LabWork23\obj\Debug\LabWork23.csproj.CoreCompileInputs.cache
+V:\ispp21\LabWork23\LabWork23\obj\Debug\LabWork23.csproj.Up2Date
+V:\ispp21\LabWork23\LabWork23\obj\Debug\LabWork23.exe
+V:\ispp21\LabWork23\LabWork23\obj\Debug\LabWork23.pdb
+V:\ispp21\LabWork23\LabWork23\bin\Debug\LabWorkLibrary.xml

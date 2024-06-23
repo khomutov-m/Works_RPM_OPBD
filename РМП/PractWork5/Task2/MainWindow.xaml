@@ -1,0 +1,16 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:Task2.User_Controls"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="CurrentTime" Height="350" Width="400">
+    <Grid>
+        <uc:CurrentTimeUserControl/>
+        <uc:CountUserControl MaxValue="5" ValueChanged="CountUserControl_ValueChanged" 
+                     HorizontalAlignment="Center"
+                     VerticalAlignment="Center"/>
+    </Grid>
+</Window>

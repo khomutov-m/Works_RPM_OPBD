@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp21\\LabWork43\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D3893-6038-4DEF-BDA1-986B8C325F5B}|Shooter\\Shooter.csproj|c:\\temp\\ispp21\\labwork43\\shooter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1D3893-6038-4DEF-BDA1-986B8C325F5B}|Shooter\\Shooter.csproj|solutionrelative:shooter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D3893-6038-4DEF-BDA1-986B8C325F5B}|Shooter\\Shooter.csproj|c:\\temp\\ispp21\\labwork43\\shooter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D3893-6038-4DEF-BDA1-986B8C325F5B}|Shooter\\Shooter.csproj|solutionrelative:shooter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF4D322-2C5F-4AEB-AC13-4E17AD5CA88A}|Clicker\\Clicker.csproj|C:\\Temp\\ispp21\\LabWork43\\clicker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF4D322-2C5F-4AEB-AC13-4E17AD5CA88A}|Clicker\\Clicker.csproj|solutionrelative:clicker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF4D322-2C5F-4AEB-AC13-4E17AD5CA88A}|Clicker\\Clicker.csproj|c:\\temp\\ispp21\\labwork43\\clicker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ABF4D322-2C5F-4AEB-AC13-4E17AD5CA88A}|Clicker\\Clicker.csproj|solutionrelative:clicker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork43\\Shooter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Shooter\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork43\\Shooter\\MainWindow.xaml",
+              "RelativeToolTip": "Shooter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T12:58:54.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork43\\Shooter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shooter\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork43\\Shooter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Shooter\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:58:54.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork43\\Clicker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Clicker\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork43\\Clicker\\MainWindow.xaml",
+              "RelativeToolTip": "Clicker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T12:03:22.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork43\\Clicker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Clicker\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork43\\Clicker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Clicker\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvyUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:03:22.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

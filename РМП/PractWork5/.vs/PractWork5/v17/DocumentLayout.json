@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp21\\PractWork5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|C:\\Temp\\ispp21\\PractWork5\\task2\\user controls\\currenttimeusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|solutionrelative:task2\\user controls\\currenttimeusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|C:\\Temp\\ispp21\\PractWork5\\task2\\user controls\\currenttimeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|solutionrelative:task2\\user controls\\currenttimeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2162F-9F41-4981-82E2-51B93E1F22EF}|Task5.1\\Task5.1.csproj|c:\\temp\\ispp21\\practwork5\\task5.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{04F2162F-9F41-4981-82E2-51B93E1F22EF}|Task5.1\\Task5.1.csproj|solutionrelative:task5.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2162F-9F41-4981-82E2-51B93E1F22EF}|Task5.1\\Task5.1.csproj|C:\\Temp\\ispp21\\PractWork5\\task5.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2162F-9F41-4981-82E2-51B93E1F22EF}|Task5.1\\Task5.1.csproj|solutionrelative:task5.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|C:\\Temp\\ispp21\\PractWork5\\wpfcontrollibrary\\wpfcontrollibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|solutionrelative:wpfcontrollibrary\\wpfcontrollibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|C:\\Temp\\ispp21\\PractWork5\\task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|C:\\Temp\\ispp21\\PractWork5\\task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|C:\\Temp\\ispp21\\PractWork5\\task2\\user controls\\countusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|solutionrelative:task2\\user controls\\countusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|C:\\Temp\\ispp21\\PractWork5\\task2\\user controls\\countusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C105130-EBD8-4A3E-8C8C-700D37D10FC8}|Task2\\Task2.csproj|solutionrelative:task2\\user controls\\countusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|C:\\Temp\\ispp21\\PractWork5\\wpfcontrollibrary\\user controls\\timeusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|solutionrelative:wpfcontrollibrary\\user controls\\timeusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|C:\\Temp\\ispp21\\PractWork5\\wpfcontrollibrary\\user controls\\timeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|solutionrelative:wpfcontrollibrary\\user controls\\timeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|C:\\Temp\\ispp21\\PractWork5\\wpfcontrollibrary\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|solutionrelative:wpfcontrollibrary\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|C:\\Temp\\ispp21\\PractWork5\\wpfcontrollibrary\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A23488-7A6B-4C05-A111-7257F88E1B1B}|WpfControlLibrary\\WpfControlLibrary.csproj|solutionrelative:wpfcontrollibrary\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B15A910-FF0B-4741-BF8F-11E4BC6BD039}|Task1\\Task1.csproj|C:\\Temp\\ispp21\\PractWork5\\task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B15A910-FF0B-4741-BF8F-11E4BC6BD039}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B15A910-FF0B-4741-BF8F-11E4BC6BD039}|Task1\\Task1.csproj|C:\\Temp\\ispp21\\PractWork5\\task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B15A910-FF0B-4741-BF8F-11E4BC6BD039}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B15A910-FF0B-4741-BF8F-11E4BC6BD039}|Task1\\Task1.csproj|C:\\Temp\\ispp21\\PractWork5\\task1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B15A910-FF0B-4741-BF8F-11E4BC6BD039}|Task1\\Task1.csproj|solutionrelative:task1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task5.1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task5.1\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task5.1\\MainWindow.xaml",
+              "RelativeToolTip": "Task5.1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:53:19.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task5.1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task5.1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task5.1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task5.1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:53:19.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\User Controls\\TimeUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\User Controls\\TimeUserControl.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\User Controls\\TimeUserControl.xaml.cs",
+              "RelativeToolTip": "WpfControlLibrary\\User Controls\\TimeUserControl.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:40:22.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TimeUserControl.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\User Controls\\TimeUserControl.xaml",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\User Controls\\TimeUserControl.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\User Controls\\TimeUserControl.xaml",
+              "RelativeToolTip": "WpfControlLibrary\\User Controls\\TimeUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:40:22.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task2\\MainWindow.xaml",
+              "RelativeToolTip": "Task2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WpfControlLibrary.csproj",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\WpfControlLibrary.csproj",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\WpfControlLibrary.csproj",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\WpfControlLibrary.csproj",
+              "RelativeToolTip": "WpfControlLibrary\\WpfControlLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentTimeUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CurrentTimeUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "Task2\\User Controls\\CurrentTimeUserControl.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CurrentTimeUserControl.xaml.cs",
+              "RelativeToolTip": "Task2\\User Controls\\CurrentTimeUserControl.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentTimeUserControl.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CurrentTimeUserControl.xaml",
+              "RelativeDocumentMoniker": "Task2\\User Controls\\CurrentTimeUserControl.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CurrentTimeUserControl.xaml",
+              "RelativeToolTip": "Task2\\User Controls\\CurrentTimeUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl1.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\UserControl1.xaml",
+              "RelativeToolTip": "WpfControlLibrary\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\WpfControlLibrary\\UserControl1.xaml.cs",
+              "RelativeToolTip": "WpfControlLibrary\\UserControl1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CountUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "Task2\\User Controls\\CountUserControl.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CountUserControl.xaml.cs",
+              "RelativeToolTip": "Task2\\User Controls\\CountUserControl.xaml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountUserControl.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CountUserControl.xaml",
+              "RelativeDocumentMoniker": "Task2\\User Controls\\CountUserControl.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task2\\User Controls\\CountUserControl.xaml",
+              "RelativeToolTip": "Task2\\User Controls\\CountUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:40:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwB0AAABCAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-03T11:40:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task1\\App.xaml",
+              "RelativeDocumentMoniker": "Task1\\App.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task1\\App.xaml",
+              "RelativeToolTip": "Task1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:40:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\PractWork5\\Task1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\PractWork5\\Task1\\MainWindow.xaml",
+              "RelativeToolTip": "Task1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:40:22.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
